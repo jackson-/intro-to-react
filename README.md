@@ -1,4 +1,4 @@
-# Instructions to repeat this repositi
+# Installations
 
 - npm install create-react-app -g
 - git clone git@github.com:jackson-/intro-to-react.git
